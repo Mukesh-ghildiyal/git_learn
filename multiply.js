@@ -1,0 +1,1 @@
+console.log("multiply 5*4=20")
